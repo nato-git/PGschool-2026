@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+    りんご1個100円，オレンジ1個88円，苺1パック398円で販売されている．
+    各購入数を入力し，合計金額を表示するプログラムを作りなさい．ただし，これらの価格は税込み価格とする．
+*/
+
 int main(){
     int apple_count, orange_count, str_count;
     printf("apple:");

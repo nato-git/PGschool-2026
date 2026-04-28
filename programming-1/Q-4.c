@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+    1クラスの人数がa人である時，野球(9人)をbチーム，バレー(6人)をcチーム作れば
+    何人が参加できないかを計算するプログラムを作りなさい．
+*/
+
 int main(){
     int a, b, c;
     printf("how many people:");
